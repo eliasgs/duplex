@@ -1,0 +1,23 @@
+{
+  "name": "duplex",
+  "version": "0.0.0",
+  "description": "Testing duplex streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eliasgs/duplex"
+  },
+  "keywords": [
+    "temporary",
+    "test"
+  ],
+  "author": "Elias G. Schneevoigt <eliasgs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliasgs/duplex/issues"
+  },
+  "homepage": "https://github.com/eliasgs/duplex"
+}
